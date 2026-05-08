@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Hekayatna Khaleset
+
+This log tracks the cryptographic history and versioning for the song **Hekayatna Khaleset** (hekayatna-khaleset).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T02:22:03.533118 | `v1` | `7f7c2cbf0330c13e480f91df5030f45b510226777ec40ebf4eb30b921acbd03c` | `0514c09e30893755ac087ad002fbf1686b409196b737237de7be126936005d84` | `2026-05-09_hekayatna-khaleset-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
